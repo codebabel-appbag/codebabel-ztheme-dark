@@ -4,4 +4,5 @@ version = "0.0.5"
 schema_version = 1
 authors = ["👤 codebabel <codebabel.dev.contact@gmail.com>"]
 description = "Description: 🎡 codebabel ztheme dark and mirage themes."
-repository = "https://github.com/codebabel-appbag/codebabel-ztheme-dark-source"
+
+repository = "https://github.com/codebabel-appbag/codebabel-ztheme-dark/"
