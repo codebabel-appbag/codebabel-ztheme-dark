@@ -1,0 +1,3 @@
+[submodule "extensions/codebabel-ztheme-dark"]
+	path = extensions/codebabel-ztheme-dark
+	url = https://github.com/codebabel-appbag/codebabel-ztheme-dark
